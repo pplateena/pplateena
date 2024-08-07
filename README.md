@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Plateenum</h1>
-<h3 align="center">A passionate software developer from Ukraine</h3>
 
 - 🔭 I’m currently working on [Path of Exile AI-agent](https://github.com/pplateena/neuralnet_skeleton)
 
