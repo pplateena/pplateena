@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm plateenum</h1>
 
-- 📄 Know about my experiences [https://djinni.co/q/d91dfa85ac/](https://djinni.co/q/d91dfa85ac/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
